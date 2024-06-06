@@ -22,99 +22,99 @@
                 </tr>
                 <tr>
                     <th>1</th>
-                    <th><font color="red">1</th>
+                    <th><font color="red">1</font></th>
                     <th>18</th>
-                    <th><font color="red">10010</th>
+                    <th><font color="red">10010</font></th>
                 </tr>
                 <tr>
                     <th>2</th>
-                    <th><font color="red">10</th>
+                    <th><font color="red">10</font></th>
                     <th>19</th>
-                    <th><font color="red">10011</th>
+                    <th><font color="red">10011</font></th>
                 </tr>
                 <tr>
                     <th>3</th>
-                    <th><font color="red">11</th>
+                    <th><font color="red">11</font></th>
                     <th>20</th>
-                    <th><font color="red">10100</th>
+                    <th><font color="red">10100</font></th>
                 </tr>
                 <tr>
                     <th>4</th>
-                    <th><font color="red">100</th>
+                    <th><font color="red">100</font></th>
                     <th>21</th>
-                    <th><font color="red">10101</th>
+                    <th><font color="red">10101</font></th>
                 </tr>
                 <tr>
                     <th>5</th>
-                    <th><font color="red">101</th>
+                    <th><font color="red">101</font></th>
                     <th>22</th>
-                    <th><font color="red">10110</th>
+                    <th><font color="red">10110</font></th>
                 </tr>
                 <tr>
                     <th>6</th>
-                    <th><font color="red">110</th>
+                    <th><font color="red">110</font></th>
                     <th>23</th>
-                    <th><font color="red">10111</th>
+                    <th><font color="red">10111</font></th>
                 </tr>
                 <tr>
                     <th>7</th>
-                    <th><font color="red">111</th>
+                    <th><font color="red">111</font></th>
                     <th>24</th>
-                    <th><font color="red">11000</th>
+                    <th><font color="red">11000</font></th>
                 </tr>
                 <tr>
                     <th>8</th>
-                    <th><font color="red">1000</th>
+                    <th><font color="red">1000</font></th>
                     <th>25</th>
-                    <th><font color="red">11001</th>
+                    <th><font color="red">11001</font></th>
                 </tr>
                 <tr>
                     <th>9</th>
-                    <th><font color="red">1001</th>
+                    <th><font color="red">1001</font></th>
                     <th>26</th>
-                    <th><font color="red">11010</th>
+                    <th><font color="red">11010</font></th>
                 </tr>
                 <tr>
                     <th>10</th>
-                    <th><font color="red">1010</th>
+                    <th><font color="red">1010</font></th>
                     <th>27</th>
-                    <th><font color="red">11011</th>
+                    <th><font color="red">11011</font></th>
                 </tr>
                 <tr>
                     <th>11</th>
-                    <th><font color="red">1011</th>
+                    <th><font color="red">1011</font></th>
                     <th>28</th>
-                    <th><font color="red">11100</th>
+                    <th><font color="red">11100</font></th>
                 </tr>
                 <tr>
                     <th>12</th>
-                    <th><font color="red">1100</th>
+                    <th><font color="red">1100</font></th>
                     <th>29</th>
-                    <th><font color="red">11101</th>
+                    <th><font color="red">11101</font></th>
                 </tr>
                 <tr>
                     <th>13</th>
-                    <th><font color="red">1101</th>
+                    <th><font color="red">1101</font></th>
                     <th>30</th>
-                    <th><font color="red">11110</th>
+                    <th><font color="red">11110</font></th>
                 </tr>
                 <tr>
                     <th>14</th>
-                    <th><font color="red">1110</th>
+                    <th><font color="red">1110</font></th>
                     <th>31</th>
-                    <th<font color="red">>11111</th>
+                    <th><font color="red">11111</font></th>
                 </tr>
                 <tr>
                     <th>15</th>
-                    <th><font color="red">1111</th>
+                    <th><font color="red">1111</font></th>
                     <th>32</th>
-                    <th><font color="red">100000</th>
+                    <th><font color="red">100000</font></th>
                 </tr>
                 <tr>
                     <th>16</th>
-                    <th><font color="red">10000</th>
+                    <th><font color="red">10000</font></th>
                     <th>33</th>
-                    <th><font color="red">100001</th>
+                    <th><font color="red">100001</font></th>
                 </tr>
                 
             </table>
