@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Sistema Decimal</title>
+</head>
+<body>
+<dd>
+
+    <h1>Sistema Decimal</h1>
+    <hr />
+    <p>O sistema de numeração decimal também é conhecido como base 10, ele tem esse nome pois utiliza 10 algarismos diferentes para representar os números.
+
+        Os algarismos ou simbolos utilizados são 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, é um sistema posicional, ou seja, a posição do algarismo no número modifica o seu valor.
+        
+        É o sistema de numeração que nós usamos. Ele foi concebido pelos hindus e divulgado no ocidente pelos árabes, por isso, é também chamado "sistema de numeração indo-arábico".</p>
+</dd>
+
+</body>
+</html>
