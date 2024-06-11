@@ -4,36 +4,46 @@
     <meta charset="UTF-8">
     <title>Portifólio de Matemática</title>
 </head>
+
 <body>
+<dd>
     <h1><b>Portifólio de Matemática</b></h1>
     <p>Nome: Eloísa Kieling Bolis</p>
     <p>Turma: Técnico em Informática 1</p>
+    <p>Primeirofikdhb</p>
+</dd>
+    <hr />
+<dd>
+    <center>
+        <h2>Sistemas de Numeração</h2>
+    </center>
+    <p>Nesse semestre foi trabalhado principalmente <b>Sistemas de Numeração</b>, 
+    Bom o que seria um sistema de numerção? Basicamente é um metodo que ultilizamos para representar
+    quantidades numericas atravez de diferentes simbolos, por exemplo o <b>sistema decimal</b>, também 
+    conhecido como sistema de base 10 (0, 1, 2, 3, 4, 5, 6, 7, 8, 9), que é o mais ultilizado nos dias de 
+    hoje. Vendo assim é possivél criar um sistema com qualquer Base de 2 até o que você conseguir pensar, 
+    com nomes e regras proprias de conversão como: <b>binário, octal, hexadecimal, etc</b>. E esses sistemas 
+    que iremos trabalhar</p>
     
-
-</body>
-</html>
-
-
-
-
-<!DOCTYPE html>
-<html>
-<head>
-    <meta charset="UTF-8">
-    <title>Portifólio de Matemática</title>
-</head>
-<body>
-    <h1><b>Portifólio de Matemática</b></h1>
-    <p>Nome: Eloísa Kieling Bolis</p>
-    <p>Turma: Técnico em Informática 1</p>
-    <p></p>
-    <h2>Conteudos trabalhados</h2>
     <ul>
-        <li>Sistemas de Numeração</li>
-        <ul>
-            <li>binário</li>
-        </ul>
-    </ul>
 
+        Sistemas de Numeração
+        <ul type="disc">
+            <li><a href="pag4.html">Decimal</a></li>
+            <li><a href="pag1.html">Binário</a></li>
+            <li><a href="pag2.html">Octal</a></li>
+            <li><a href="pag3.html">Hexadecimal</a></li>
+        </ul>
+
+    </ul>
+    <a href="https://sca.profmat-sbm.org.br/profmat_tcc.php?id1=2418&id2=150110167#:~:text=Um%20sistema%20de%20
+    numera%C3%A7%C3%A3o%20posicional,de%2010%20dezenas%20obt%C3%A9m%2D%20se">documento</a>
+    <p>.</p>
+    <p>.</p>
+    <p>.</p>
+    <p align="right"><b>ps:</b> Prof ajeita o zoom pra 100% pra ficar bom :)</p>
+
+
+</dd>
 </body>
 </html>
