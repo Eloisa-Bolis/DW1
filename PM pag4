@@ -4,16 +4,36 @@
     <meta charset="UTF-8">
     <title>Sistema Decimal</title>
 </head>
-<body>
+<body width="125%">
 <dd>
 
-    <h1>Sistema Decimal</h1>
+    <center><h1>Sistema Decimal</h1></center>
     <hr />
-    <p>O sistema de numeração decimal também é conhecido como base 10, ele tem esse nome pois utiliza 10 algarismos diferentes para representar os números.
+        <p>O sistema de numeração decimal também é conhecido como <u><b>base 10</b></u>, ele tem esse nome pois utiliza 10 algarismos diferentes para representar os números.
+        Os algarismos ou simbolos utilizados são <b>( 0, 1, 2, 3, 4, 5, 6, 7, 8, 9 )</b>. Dizemos que o sistema é posicional, pois a localização de cada algarismo determina seu significado.
+        É o sistema de numeração que nós mais usamos no dia a dia. A origem desse sistema remonta à China e à Índia do século IV d.C., com posterior disseminação por comerciantes árabes. 
+        Desde então, passou por modificações e aprimoramentos, até alcançar o formato atual. Por causa da sua origem ele também conhecido como "<u><b>sistema de numeração indo-arábico</b></u>".</p>
 
-        Os algarismos ou simbolos utilizados são 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, é um sistema posicional, ou seja, a posição do algarismo no número modifica o seu valor.
-        
-        É o sistema de numeração que nós usamos. Ele foi concebido pelos hindus e divulgado no ocidente pelos árabes, por isso, é também chamado "sistema de numeração indo-arábico".</p>
+    
+    <h2>Como decompor um numero decimal</h2>
+        <p>6.839.746 = 6.000.000 + 800.000 + 30.000 + 9.000 + 700 + 40 + 6 = 
+        6 * 10<sup>6</sup> + 8 * 10<sup>5</sup> + 3 * 10<sup>4</sup> + 9 * 10<sup>3</sup> + 7 * 10<sup>2</sup> + 4 * 10<sup>1</sup> + 6 * 10<sup>0</sup></p>
+    
+    <h2>Características do sistema de numeração decimal</h2>
+    <ul>
+        <li>Possui símbolos diferentes para representar quantidades de 1 a 9 e um símbolo para representar a ausência de quantidade (zero).</li>
+        <li>Como é um sistema posicional, mesmo tendo poucos símbolos, é possível representar todos os números.</li>
+        <li>As quantidades são agrupadas de 10 em 10, e recebem as seguintes denominações:</li>
+    </ul>
+    <p>10 unidades = 1 dezena</p>
+    <p>10 dezenas = 1 centena</p>
+    <p>10 centenas = 1 unidade de milhar, e assim por diante</p>
+
+
+    <p align="right"><b>fonte: </b> documentos prof. Váleria, site toda máteria </p>
+    <h3 align="right"><a href="portifolio.html">Voltar</a></h3>
+
+    
 </dd>
 
 </body>
