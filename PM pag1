@@ -4,11 +4,24 @@
     <meta charset="UTF-8">
     <title>Binário</title>
 </head>
-<body background="img/images (7).jpg">
+<body background="">
 <dd>
-    <h1>Binário</h1>
+    <center><h1>Sistema Binário</h1></center>
+    <hr />
+        <p>O sistema de numeração binária também é conhecido como <u><b>base 2</b></u>, ele tem esse nome pois utiliza 2 algarismos diferentes para representar os números.
+        Os algarismos ou simbolos utilizados são <b>( 0 e 1 )</b>.</p>
+
+    <h2>Converção de Binário para Decimal</h2>
+    <ul>
+        <p>Base 10 <b> -----> </b> Base 2</p>
+        <p>Para converter da base 10 para a base 2 é usado o sistema de divisõens consecutivas, ou também conhecido como metodo da escadinha. Você tera que dividir o numero 
+        consecutivamente por 2 guardando o resto até o resultado ser 0 ou 1</p>
+
+    </ul>
+    
+
     <center>
-        <h1><b>Tabela dos Binários</b></h1>
+        <h2><b>Tabela dos Binários</b></h2>
             <table border="1" Width="70%">
                 <tr bgcolor="efefef">
                     <th>Sistema Decimal</th>
